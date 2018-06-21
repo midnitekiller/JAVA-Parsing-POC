@@ -5,8 +5,39 @@
     android:layout_height="match_parent"
     tools:context="com.d2g.parsingpoc.MainActivity">
 
+    <RelativeLayout
+        android:id="@+id/chanHeaderTitle"
+        android:layout_width="match_parent"
+        android:layout_height="117dp"
+        android:layout_above="@+id/list"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginBottom="2dp"
+        android:background="@color/lb_basic_card_info_bg_color">
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="276dp"
+            android:layout_height="51dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="4dp"
+            android:layout_marginTop="41dp"
+            android:fontFamily="sans-serif"
+            android:text="Local Channel Lists"
+            android:textAlignment="center"
+            android:textSize="24sp"
+            android:typeface="monospace" />
+    </RelativeLayout>
+
     <ListView
         android:id="@+id/list"
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content" />
+        android:layout_width="486dp"
+        android:layout_height="392dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="6dp"
+        android:layout_marginBottom="3dp">
+
+    </ListView>
 </RelativeLayout>
