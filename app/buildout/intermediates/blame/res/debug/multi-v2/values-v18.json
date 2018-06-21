@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "10",
+                        "endColumns": "12",
+                        "endOffsets": "642"
+                    }
+                }
+            ]
+        }
+    ]
+}

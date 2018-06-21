@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-lo\\values-lo.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\values-lo\\values-lo.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,212,313,411,506,627,733,830,929,1065,1202,1308,1429,1565,1705,1843,1952,2048,2168,2257,2365,2468,2568,2665,2777,2886,3004,3122,3224,3335,3447,3568,3680,3796,3883,3966,4069,4204,4358",
+                        "endColumns": "106,100,97,94,120,105,96,98,135,136,105,120,135,139,137,108,95,119,88,107,102,99,96,111,108,117,117,101,110,111,120,111,115,86,82,102,134,153,90",
+                        "endOffsets": "207,308,406,501,622,728,825,924,1060,1197,1303,1424,1560,1700,1838,1947,2043,2163,2252,2360,2463,2563,2660,2772,2881,2999,3117,3219,3330,3442,3563,3675,3791,3878,3961,4064,4199,4353,4444"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\8b64ba7d6cf953974717a3a4ce5c4038\\res\\values-lo\\values-lo.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "41",
+                        "startColumns": "4",
+                        "startOffsets": "4449",
+                        "endColumns": "100",
+                        "endOffsets": "4545"
+                    }
+                }
+            ]
+        }
+    ]
+}

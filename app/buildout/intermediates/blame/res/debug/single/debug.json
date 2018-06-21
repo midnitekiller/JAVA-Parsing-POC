@@ -1,0 +1,890 @@
+[
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_lb_control_button_primary.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\lb_control_button_primary.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\8b64ba7d6cf953974717a3a4ce5c4038\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_lb_search_orb.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\lb_search_orb.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_lb_in_app_search_shadow_focused.9.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-xxhdpi-v4\\lb_in_app_search_shadow_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_lb_picker.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\lb_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_lb_guidedstep_fragment.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\lb_guidedstep_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\animator_lb_playback_description_fade_in.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\animator\\lb_playback_description_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_lb_browse_fragment.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\lb_browse_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\animator_lb_playback_rows_fade_in.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\animator\\lb_playback_rows_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_lb_card_shadow_focused.9.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-xhdpi-v4\\lb_card_shadow_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\8b64ba7d6cf953974717a3a4ce5c4038\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_lb_headers_fragment.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\lb_headers_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_lb_playback_transport_controls.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\lb_playback_transport_controls.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\animator-v21_lb_playback_bg_fade_out.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\animator-v21\\lb_playback_bg_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable_lb_headers_right_fading.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable\\lb_headers_right_fading.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-v21_lb_action_bg.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-v21\\lb_action_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_lb_ic_search_mic.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-xxhdpi-v4\\lb_ic_search_mic.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_lb_media_item_number_view_flipper.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\lb_media_item_number_view_flipper.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_lb_text_dot_one.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-xhdpi-v4\\lb_text_dot_one.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable_lb_playback_progress_bar.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable\\lb_playback_progress_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\8b64ba7d6cf953974717a3a4ce5c4038\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\9401fdd86ae9481bee7cbe77528d51bd\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\transition-v21_lb_return_transition.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\transition-v21\\lb_return_transition.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable_lb_onboarding_start_button_background.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable\\lb_onboarding_start_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\animator_lb_guidedactions_item_unpressed.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\animator\\lb_guidedactions_item_unpressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\8b64ba7d6cf953974717a3a4ce5c4038\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_lb_ic_search_mic.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-mdpi-v4\\lb_ic_search_mic.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_lb_ic_sad_cloud.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-mdpi-v4\\lb_ic_sad_cloud.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\9401fdd86ae9481bee7cbe77528d51bd\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\transition-v21_lb_guidedstep_activity_enter.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\transition-v21\\lb_guidedstep_activity_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_lb_speech_orb.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\lb_speech_orb.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_lb_ic_search_mic_out.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-hdpi-v4\\lb_ic_search_mic_out.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_lb_fullwidth_details_overview_logo.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\lb_fullwidth_details_overview_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-v21_lb_control_button_primary.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-v21\\lb_control_button_primary.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable_lb_playback_now_playing_bar.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable\\lb_playback_now_playing_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_lb_details_overview.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\lb_details_overview.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_lb_in_app_search_shadow_focused.9.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-mdpi-v4\\lb_in_app_search_shadow_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\8b64ba7d6cf953974717a3a4ce5c4038\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_lb_media_list_header.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\lb_media_list_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\transition-v21_lb_browse_headers_in.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\transition-v21\\lb_browse_headers_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_lb_ic_shuffle.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-xhdpi-v4\\lb_ic_shuffle.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_lb_divider.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\lb_divider.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_lb_ic_in_app_search.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-mdpi-v4\\lb_ic_in_app_search.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\8b64ba7d6cf953974717a3a4ce5c4038\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\8b64ba7d6cf953974717a3a4ce5c4038\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\transition-v21_lb_browse_enter_transition.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\transition-v21\\lb_browse_enter_transition.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_lb_ic_actions_right_arrow.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-mdpi-v4\\lb_ic_actions_right_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\animator_lb_playback_rows_fade_out.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\animator\\lb_playback_rows_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_lb_in_app_search_bg.9.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-hdpi-v4\\lb_in_app_search_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_lb_image_card_view.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\lb_image_card_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_lb_list_row.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\lb_list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_lb_action_2_lines.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\lb_action_2_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\8b64ba7d6cf953974717a3a4ce5c4038\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\transition-v21_lb_title_in.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\transition-v21\\lb_title_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\8b64ba7d6cf953974717a3a4ce5c4038\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_lb_guidedactions_datepicker_item.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\lb_guidedactions_datepicker_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_lb_ic_play_fit.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-xhdpi-v4\\lb_ic_play_fit.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\animator_lb_playback_controls_fade_in.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\animator\\lb_playback_controls_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_lb_control_bar.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\lb_control_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_lb_ic_in_app_search.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-xxhdpi-v4\\lb_ic_in_app_search.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\8b64ba7d6cf953974717a3a4ce5c4038\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\8b64ba7d6cf953974717a3a4ce5c4038\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\animator_lb_onboarding_page_indicator_fade_out.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\animator\\lb_onboarding_page_indicator_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_lb_action_bg_focused.9.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-hdpi-v4\\lb_action_bg_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\9401fdd86ae9481bee7cbe77528d51bd\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\transition-v21_lb_details_return_transition.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\transition-v21\\lb_details_return_transition.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\transition-v21_lb_shared_element_enter_transition.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\transition-v21\\lb_shared_element_enter_transition.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_lb_ic_more.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-xhdpi-v4\\lb_ic_more.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_lb_ic_pip.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-xhdpi-v4\\lb_ic_pip.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_lb_error_fragment.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\lb_error_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\anim_lb_decelerator_4.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\anim\\lb_decelerator_4.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable_lb_search_orb.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable\\lb_search_orb.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_lb_picker_separator.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\lb_picker_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_lb_card_shadow_normal.9.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-xhdpi-v4\\lb_card_shadow_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_lb_playback_transport_controls_row.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\lb_playback_transport_controls_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_lb_ic_fast_rewind.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-xhdpi-v4\\lb_ic_fast_rewind.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_lb_header.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\lb_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_lb_text_dot_two.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-xhdpi-v4\\lb_text_dot_two.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\animator-v21_lb_onboarding_logo_exit.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\animator-v21\\lb_onboarding_logo_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\transition-v21_lb_vertical_grid_enter_transition.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\transition-v21\\lb_vertical_grid_enter_transition.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_lb_ic_pause.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-xhdpi-v4\\lb_ic_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\8b64ba7d6cf953974717a3a4ce5c4038\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_lb_ic_search_mic_out.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-mdpi-v4\\lb_ic_search_mic_out.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\8b64ba7d6cf953974717a3a4ce5c4038\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_lb_action_bg_focused.9.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-mdpi-v4\\lb_action_bg_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\transition-v21_lb_browse_entrance_transition.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\transition-v21\\lb_browse_entrance_transition.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\animator-v21_lb_playback_bg_fade_in.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\animator-v21\\lb_playback_bg_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_lb_ic_thumb_down.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-xhdpi-v4\\lb_ic_thumb_down.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\8b64ba7d6cf953974717a3a4ce5c4038\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_lb_in_app_search_bg.9.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-mdpi-v4\\lb_in_app_search_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_lb_ic_actions_right_arrow.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-xhdpi-v4\\lb_ic_actions_right_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\9401fdd86ae9481bee7cbe77528d51bd\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_lb_ic_search_mic.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-hdpi-v4\\lb_ic_search_mic.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_lb_ic_play.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-xhdpi-v4\\lb_ic_play.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable_lb_speech_orb.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable\\lb_speech_orb.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\transition-v21_lb_enter_transition.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\transition-v21\\lb_enter_transition.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_lb_ic_actions_right_arrow.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-xxhdpi-v4\\lb_ic_actions_right_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_lb_image_card_view_themed_badge_left.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\lb_image_card_view_themed_badge_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_lb_ic_sad_cloud.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-xhdpi-v4\\lb_ic_sad_cloud.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_lb_ic_playback_loop.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-xhdpi-v4\\lb_ic_playback_loop.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_lb_ic_loop_one.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-xhdpi-v4\\lb_ic_loop_one.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-v21_lb_control_button_secondary.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-v21\\lb_control_button_secondary.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\raw_lb_voice_open.ogg.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\raw\\lb_voice_open.ogg"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\8b64ba7d6cf953974717a3a4ce5c4038\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_lb_action_bg_focused.9.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-xxhdpi-v4\\lb_action_bg_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\9401fdd86ae9481bee7cbe77528d51bd\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\raw_lb_voice_no_input.ogg.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\raw\\lb_voice_no_input.ogg"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\animator-v21_lb_onboarding_page_indicator_enter.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\animator-v21\\lb_onboarding_page_indicator_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_lb_ic_in_app_search.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-xhdpi-v4\\lb_ic_in_app_search.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\8b64ba7d6cf953974717a3a4ce5c4038\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\8b64ba7d6cf953974717a3a4ce5c4038\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_lb_in_app_search_shadow_normal.9.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-hdpi-v4\\lb_in_app_search_shadow_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\animator-v21_lb_playback_description_fade_out.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\animator-v21\\lb_playback_description_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\animator_lb_guidedstep_slide_down.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\animator\\lb_guidedstep_slide_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\animator_lb_guidedstep_slide_up.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\animator\\lb_guidedstep_slide_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\transition-v21_lb_browse_return_transition.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\transition-v21\\lb_browse_return_transition.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_lb_search_fragment.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\lb_search_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\8b64ba7d6cf953974717a3a4ce5c4038\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\8b64ba7d6cf953974717a3a4ce5c4038\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_lb_shadow.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\lb_shadow.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_lb_section_header.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\lb_section_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_lb_rows_fragment.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\lb_rows_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_lb_playback_controls_row.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\lb_playback_controls_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_lb_playback_now_playing_bars.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\lb_playback_now_playing_bars.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_lb_picker_column.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\lb_picker_column.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\transition-v21_lb_vertical_grid_entrance_transition.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\transition-v21\\lb_vertical_grid_entrance_transition.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_lb_row_media_item_action.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\lb_row_media_item_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_lb_onboarding_fragment.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\lb_onboarding_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-v21_lb_card_foreground.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-v21\\lb_card_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\animator_lb_playback_controls_fade_out.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\animator\\lb_playback_controls_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_lb_vertical_grid_fragment.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\lb_vertical_grid_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\animator_lb_guidedactions_item_pressed.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\animator\\lb_guidedactions_item_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\9401fdd86ae9481bee7cbe77528d51bd\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\transition-v21_lb_shared_element_return_transition.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\transition-v21\\lb_shared_element_return_transition.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_lb_guidedactions_item.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\lb_guidedactions_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_lb_title_view.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\lb_title_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_lb_ic_guidedactions_item_chevron.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-xhdpi-v4\\lb_ic_guidedactions_item_chevron.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\animator_lb_onboarding_start_button_fade_out.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\animator\\lb_onboarding_start_button_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_lb_guidedstep_background.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\lb_guidedstep_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_lb_fullwidth_details_overview.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\lb_fullwidth_details_overview.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_lb_text_dot_one_small.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-xhdpi-v4\\lb_text_dot_one_small.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_lb_row_header.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\lb_row_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\raw_lb_voice_failure.ogg.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\raw\\lb_voice_failure.ogg"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\8b64ba7d6cf953974717a3a4ce5c4038\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\transition-v21_lb_title_out.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\transition-v21\\lb_title_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_lb_ic_search_mic_out.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-xhdpi-v4\\lb_ic_search_mic_out.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_lb_ic_skip_next.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-xhdpi-v4\\lb_ic_skip_next.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_lb_in_app_search_shadow_normal.9.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-xxhdpi-v4\\lb_in_app_search_shadow_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_lb_ic_replay.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-xhdpi-v4\\lb_ic_replay.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\anim_lb_decelerator_2.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\anim\\lb_decelerator_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\animator_lb_onboarding_page_indicator_fade_in.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\animator\\lb_onboarding_page_indicator_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\9401fdd86ae9481bee7cbe77528d51bd\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_lb_action_1_line.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\lb_action_1_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\animator_lb_onboarding_start_button_fade_in.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\animator\\lb_onboarding_start_button_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_lb_action_bg_focused.9.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-xhdpi-v4\\lb_action_bg_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\8b64ba7d6cf953974717a3a4ce5c4038\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_lb_browse_title.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\lb_browse_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_lb_ic_nav_arrow.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-xhdpi-v4\\lb_ic_nav_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_lb_ic_actions_right_arrow.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-hdpi-v4\\lb_ic_actions_right_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_lb_video_surface.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\lb_video_surface.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\transition-v21_lb_vertical_grid_return_transition.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\transition-v21\\lb_vertical_grid_return_transition.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_lb_image_card_view_themed_badge_right.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\lb_image_card_view_themed_badge_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_lb_ic_thumb_down_outline.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-xhdpi-v4\\lb_ic_thumb_down_outline.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_video_surface_fragment.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\video_surface_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_lb_row_container.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\lb_row_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_lb_text_dot_two_small.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-xhdpi-v4\\lb_text_dot_two_small.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_lb_guidedbuttonactions.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\lb_guidedbuttonactions.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_lb_playback_fragment.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\lb_playback_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_lb_playback_controls.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\lb_playback_controls.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_lb_control_button_secondary.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\lb_control_button_secondary.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_lb_guidance.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\lb_guidance.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_lb_in_app_search_bg.9.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-xxhdpi-v4\\lb_in_app_search_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_lb_details_description.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\lb_details_description.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\transition-v21_lb_browse_headers_out.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\transition-v21\\lb_browse_headers_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\animator-v21_lb_onboarding_logo_enter.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\animator-v21\\lb_onboarding_logo_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_lb_ic_hq.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-xhdpi-v4\\lb_ic_hq.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_lb_search_bar.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\lb_search_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_lb_ic_in_app_search.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-hdpi-v4\\lb_ic_in_app_search.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_lb_background_window.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\lb_background_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\8b64ba7d6cf953974717a3a4ce5c4038\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_lb_ic_skip_previous.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-xhdpi-v4\\lb_ic_skip_previous.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_lb_ic_sad_cloud.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-hdpi-v4\\lb_ic_sad_cloud.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_lb_ic_loop.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-xhdpi-v4\\lb_ic_loop.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\8b64ba7d6cf953974717a3a4ce5c4038\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_lb_ic_stop.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-xhdpi-v4\\lb_ic_stop.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_lb_in_app_search_shadow_focused.9.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-xhdpi-v4\\lb_in_app_search_shadow_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\9401fdd86ae9481bee7cbe77528d51bd\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_lb_list_row_hovercard.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\lb_list_row_hovercard.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_lb_in_app_search_shadow_normal.9.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-mdpi-v4\\lb_in_app_search_shadow_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_lb_row_media_item.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\lb_row_media_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_lb_in_app_search_shadow_focused.9.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-hdpi-v4\\lb_in_app_search_shadow_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\animator-v21_lb_onboarding_description_enter.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\animator-v21\\lb_onboarding_description_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\9401fdd86ae9481bee7cbe77528d51bd\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\8b64ba7d6cf953974717a3a4ce5c4038\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_lb_image_card_view_themed_content.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\lb_image_card_view_themed_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_lb_ic_cc.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-xhdpi-v4\\lb_ic_cc.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_lb_in_app_search_shadow_normal.9.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-xhdpi-v4\\lb_in_app_search_shadow_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\animator-v21_lb_onboarding_title_enter.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\animator-v21\\lb_onboarding_title_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_lb_ic_thumb_up.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-xhdpi-v4\\lb_ic_thumb_up.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable_lb_background.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable\\lb_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_lb_image_card_view_themed_title.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\lb_image_card_view_themed_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_lb_ic_fast_forward.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-xhdpi-v4\\lb_ic_fast_forward.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_lb_ic_search_mic.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-xhdpi-v4\\lb_ic_search_mic.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_lb_vertical_grid.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\lb_vertical_grid.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\8b64ba7d6cf953974717a3a4ce5c4038\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_lb_picker_item.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\lb_picker_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\8b64ba7d6cf953974717a3a4ce5c4038\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_lb_in_app_search_bg.9.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-xhdpi-v4\\lb_in_app_search_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_lb_details_fragment.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\lb_details_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\raw_lb_voice_success.ogg.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\raw\\lb_voice_success.ogg"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_lb_ic_sad_cloud.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-xxhdpi-v4\\lb_ic_sad_cloud.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\transition-v21_lb_details_enter_transition.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\transition-v21\\lb_details_enter_transition.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-v21_lb_selectable_item_rounded_rect.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-v21\\lb_selectable_item_rounded_rect.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\transition-v21_lb_guidedstep_activity_enter_bottom.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\transition-v21\\lb_guidedstep_activity_enter_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\layout_lb_guidedactions.xml.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\layout\\lb_guidedactions.xml"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_lb_ic_search_mic_out.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-xxhdpi-v4\\lb_ic_search_mic_out.png"
+    },
+    {
+        "merged": "C:\\Users\\D2G\\Desktop\\ParsingPOC\\app\\buildout\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_lb_ic_thumb_up_outline.png.flat",
+        "source": "C:\\Users\\D2G\\Desktop\\Lief Filez\\ExoPlayer\\caches\\transforms-1\\files-1.1\\leanback-v17-27.1.1.aar\\931e98eb1528973d5acb5688c14d9f25\\res\\drawable-xhdpi-v4\\lb_ic_thumb_up_outline.png"
+    }
+]

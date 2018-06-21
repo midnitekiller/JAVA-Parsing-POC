@@ -1,0 +1,93 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\D2G\Desktop\ParsingPOC\app\src\main\AndroidManifest.xml:2:1-15:12
+INJECTED from C:\Users\D2G\Desktop\ParsingPOC\app\src\main\AndroidManifest.xml:2:1-15:12
+INJECTED from C:\Users\D2G\Desktop\ParsingPOC\app\src\main\AndroidManifest.xml:2:1-15:12
+INJECTED from C:\Users\D2G\Desktop\ParsingPOC\app\src\main\AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:leanback-v17:27.1.1] C:\Users\D2G\Desktop\Lief Filez\ExoPlayer\caches\transforms-1\files-1.1\leanback-v17-27.1.1.aar\931e98eb1528973d5acb5688c14d9f25\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\D2G\Desktop\Lief Filez\ExoPlayer\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\57c10f1e467e8d9f1acd9686bccd5952\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\D2G\Desktop\Lief Filez\ExoPlayer\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\96fc2efe9277c01c135055d29875ea8a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\D2G\Desktop\Lief Filez\ExoPlayer\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\37e9904a9a019ef9e33cb09f49d76532\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\D2G\Desktop\Lief Filez\ExoPlayer\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\91f17e2a030959239a8e5c383a7c2b01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\D2G\Desktop\Lief Filez\ExoPlayer\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\9401fdd86ae9481bee7cbe77528d51bd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\D2G\Desktop\Lief Filez\ExoPlayer\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f5dda33682d350c38983e50f418ff5bc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\D2G\Desktop\Lief Filez\ExoPlayer\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\8b64ba7d6cf953974717a3a4ce5c4038\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\D2G\Desktop\Lief Filez\ExoPlayer\caches\transforms-1\files-1.1\runtime-1.1.0.aar\be893c7d1b9fdcb6967219d5da2bfdc0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\D2G\Desktop\Lief Filez\ExoPlayer\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\2b0119f2e62a875a861e82856b8ad2ce\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\D2G\Desktop\Lief Filez\ExoPlayer\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\722cbd9a36efe88eb37f4bf6507841cd\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\D2G\Desktop\Lief Filez\ExoPlayer\caches\transforms-1\files-1.1\runtime-1.1.0.aar\15e4f9ba797b24c00cd5e74fb67edb39\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\D2G\Desktop\ParsingPOC\app\src\main\AndroidManifest.xml:2:1-15:12
+INJECTED from C:\Users\D2G\Desktop\ParsingPOC\app\src\main\AndroidManifest.xml:2:1-15:12
+INJECTED from C:\Users\D2G\Desktop\ParsingPOC\app\src\main\AndroidManifest.xml:2:1-15:12
+	package
+		ADDED from C:\Users\D2G\Desktop\ParsingPOC\app\src\main\AndroidManifest.xml:4:5-33
+		INJECTED from C:\Users\D2G\Desktop\ParsingPOC\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\D2G\Desktop\ParsingPOC\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\D2G\Desktop\ParsingPOC\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\D2G\Desktop\ParsingPOC\app\src\main\AndroidManifest.xml:2:1-15:12
+		INJECTED from C:\Users\D2G\Desktop\ParsingPOC\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\D2G\Desktop\ParsingPOC\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\D2G\Desktop\ParsingPOC\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\D2G\Desktop\ParsingPOC\app\src\main\AndroidManifest.xml:2:1-15:12
+		INJECTED from C:\Users\D2G\Desktop\ParsingPOC\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\D2G\Desktop\ParsingPOC\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\D2G\Desktop\ParsingPOC\app\src\main\AndroidManifest.xml:6:5-13:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\D2G\Desktop\Lief Filez\ExoPlayer\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\57c10f1e467e8d9f1acd9686bccd5952\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\D2G\Desktop\Lief Filez\ExoPlayer\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\57c10f1e467e8d9f1acd9686bccd5952\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\D2G\Desktop\ParsingPOC\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\D2G\Desktop\ParsingPOC\app\src\main\AndroidManifest.xml:9:9-41
+	android:icon
+		ADDED from C:\Users\D2G\Desktop\ParsingPOC\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from C:\Users\D2G\Desktop\ParsingPOC\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from C:\Users\D2G\Desktop\ParsingPOC\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.d2g.parsingpoc.MainActivity
+ADDED from C:\Users\D2G\Desktop\ParsingPOC\app\src\main\AndroidManifest.xml:12:9-59
+	android:name
+		ADDED from C:\Users\D2G\Desktop\ParsingPOC\app\src\main\AndroidManifest.xml:12:19-47
+uses-sdk
+INJECTED from C:\Users\D2G\Desktop\ParsingPOC\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\D2G\Desktop\ParsingPOC\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\D2G\Desktop\ParsingPOC\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:leanback-v17:27.1.1] C:\Users\D2G\Desktop\Lief Filez\ExoPlayer\caches\transforms-1\files-1.1\leanback-v17-27.1.1.aar\931e98eb1528973d5acb5688c14d9f25\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:leanback-v17:27.1.1] C:\Users\D2G\Desktop\Lief Filez\ExoPlayer\caches\transforms-1\files-1.1\leanback-v17-27.1.1.aar\931e98eb1528973d5acb5688c14d9f25\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\D2G\Desktop\Lief Filez\ExoPlayer\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\57c10f1e467e8d9f1acd9686bccd5952\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\D2G\Desktop\Lief Filez\ExoPlayer\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\57c10f1e467e8d9f1acd9686bccd5952\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\D2G\Desktop\Lief Filez\ExoPlayer\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\96fc2efe9277c01c135055d29875ea8a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\D2G\Desktop\Lief Filez\ExoPlayer\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\96fc2efe9277c01c135055d29875ea8a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\D2G\Desktop\Lief Filez\ExoPlayer\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\37e9904a9a019ef9e33cb09f49d76532\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\D2G\Desktop\Lief Filez\ExoPlayer\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\37e9904a9a019ef9e33cb09f49d76532\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\D2G\Desktop\Lief Filez\ExoPlayer\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\91f17e2a030959239a8e5c383a7c2b01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\D2G\Desktop\Lief Filez\ExoPlayer\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\91f17e2a030959239a8e5c383a7c2b01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\D2G\Desktop\Lief Filez\ExoPlayer\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\9401fdd86ae9481bee7cbe77528d51bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\D2G\Desktop\Lief Filez\ExoPlayer\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\9401fdd86ae9481bee7cbe77528d51bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\D2G\Desktop\Lief Filez\ExoPlayer\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f5dda33682d350c38983e50f418ff5bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\D2G\Desktop\Lief Filez\ExoPlayer\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f5dda33682d350c38983e50f418ff5bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\D2G\Desktop\Lief Filez\ExoPlayer\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\8b64ba7d6cf953974717a3a4ce5c4038\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\D2G\Desktop\Lief Filez\ExoPlayer\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\8b64ba7d6cf953974717a3a4ce5c4038\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\D2G\Desktop\Lief Filez\ExoPlayer\caches\transforms-1\files-1.1\runtime-1.1.0.aar\be893c7d1b9fdcb6967219d5da2bfdc0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\D2G\Desktop\Lief Filez\ExoPlayer\caches\transforms-1\files-1.1\runtime-1.1.0.aar\be893c7d1b9fdcb6967219d5da2bfdc0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\D2G\Desktop\Lief Filez\ExoPlayer\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\2b0119f2e62a875a861e82856b8ad2ce\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\D2G\Desktop\Lief Filez\ExoPlayer\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\2b0119f2e62a875a861e82856b8ad2ce\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\D2G\Desktop\Lief Filez\ExoPlayer\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\722cbd9a36efe88eb37f4bf6507841cd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\D2G\Desktop\Lief Filez\ExoPlayer\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\722cbd9a36efe88eb37f4bf6507841cd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\D2G\Desktop\Lief Filez\ExoPlayer\caches\transforms-1\files-1.1\runtime-1.1.0.aar\15e4f9ba797b24c00cd5e74fb67edb39\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\D2G\Desktop\Lief Filez\ExoPlayer\caches\transforms-1\files-1.1\runtime-1.1.0.aar\15e4f9ba797b24c00cd5e74fb67edb39\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\D2G\Desktop\ParsingPOC\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\D2G\Desktop\ParsingPOC\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\D2G\Desktop\ParsingPOC\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\D2G\Desktop\ParsingPOC\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\D2G\Desktop\ParsingPOC\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\D2G\Desktop\ParsingPOC\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\D2G\Desktop\ParsingPOC\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\D2G\Desktop\ParsingPOC\app\src\main\AndroidManifest.xml

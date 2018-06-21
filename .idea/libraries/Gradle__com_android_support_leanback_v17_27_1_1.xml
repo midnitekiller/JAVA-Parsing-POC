@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:leanback-v17-27.1.1">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../Lief Filez/ExoPlayer/caches/transforms-1/files-1.1/leanback-v17-27.1.1.aar/931e98eb1528973d5acb5688c14d9f25/res" />
+      <root url="jar://$PROJECT_DIR$/../Lief Filez/ExoPlayer/caches/transforms-1/files-1.1/leanback-v17-27.1.1.aar/931e98eb1528973d5acb5688c14d9f25/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Lief Filez/ExoPlayer/caches/modules-2/files-2.1/com.android.support/leanback-v17/27.1.1/2791707a039d1c6038f35362475414ece4d01bae/leanback-v17-27.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
